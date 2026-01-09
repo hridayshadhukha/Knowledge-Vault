@@ -190,3 +190,57 @@ body {
   font-size: 16px;
   text-align: center;
 }
+
+
+
+/* start the solution section */
+
+.solution-section{
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  max-width: 1360px;
+  margin: auto;
+}
+
+.section-message{
+  color: #30B868;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.solution-title{
+  color: #001931;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+}
+
+.solution-description{
+  color: #627382;
+  line-height: 20px;
+}
+.solution-list{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 25px;
+}
+
+.solution-list li{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  list-style: none;
+  color: rgba(0, 25, 49, 1);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.solution-text{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
