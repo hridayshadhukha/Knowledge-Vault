@@ -190,11 +190,9 @@ body {
   text-align: center;
 }
 
-
-
 /* start the solution section */
 
-.solution-section{
+.solution-section {
   display: flex;
   gap: 60px;
   align-items: center;
@@ -202,32 +200,32 @@ body {
   margin: auto;
 }
 
-.section-message{
-  color: #30B868;
+.section-message {
+  color: #30b868;
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
 }
 
-.solution-title{
+.solution-title {
   color: #001931;
   font-size: 48px;
   font-weight: 700;
   line-height: 58px;
 }
 
-.solution-description{
+.solution-description {
   color: #627382;
   line-height: 20px;
 }
-.solution-list{
+.solution-list {
   display: flex;
   flex-direction: column;
   gap: 15px;
   margin-top: 25px;
 }
 
-.solution-list li{
+.solution-list li {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -238,7 +236,7 @@ body {
   line-height: 20px;
 }
 
-.solution-text{
+.solution-text {
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -246,7 +244,7 @@ body {
 
 /* start challenge-section style */
 
-.challenge-section{
+.challenge-section {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -260,7 +258,7 @@ body {
   margin-top: 100px;
 }
 
-.challenge-heading{
+.challenge-heading {
   color: rgba(0, 25, 49, 1);
   font-size: 40px;
   font-weight: 700;
@@ -268,13 +266,13 @@ body {
   text-align: center;
 }
 
-.challenge-description{
+.challenge-description {
   color: #627382;
   line-height: 24px;
   text-align: center;
 }
 
-.challenge-credit{
+.challenge-credit {
   color: #627382;
   line-height: 20px;
   text-align: center;
@@ -282,60 +280,60 @@ body {
 
 /* start footer part style */
 
-.footer-part{
+.footer-part {
   background-color: rgba(0, 25, 49, 1);
   padding: 120px 100px 30px 100px;
   margin-top: 100px;
 }
 
-.footer-container{
+.footer-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.social-icon-title{
-  color: #FFFFFF;
+.social-icon-title {
+  color: #ffffff;
   font-size: 20px;
   font-weight: 500;
   line-height: 28px;
   margin-top: -10px;
 }
 
-.social-icon-container{
+.social-icon-container {
   display: flex;
   gap: 20px;
   align-items: center;
   margin-top: 12px;
 }
 
-.social-icon-bg{
+.social-icon-bg {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #FFFFFF;
+  background: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.social-icon-bg:hover{
+.social-icon-bg:hover {
   transform: scale(1.15);
   transition: 0.2s;
 }
 
-.border-bottom{
+.border-bottom {
   margin-top: 50px;
   border-bottom: 1px solid rgba(229, 231, 235, 1);
   opacity: 0.2;
 }
 
-.copy-right-container{
+.copy-right-container {
   text-align: center;
   margin-top: 25px;
 }
 
-.copy-right{
+.copy-right {
   color: rgba(250, 250, 250, 1);
   line-height: 24px;
 }
